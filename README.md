@@ -10,13 +10,7 @@
 # 📊 GitHub Stats:
 
 [![Muna's GitHub stats](https://github-readme-stats.vercel.app/api?username=monaH24&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=monaH24&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=monaH24&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=monaH24&theme=onedark&frame=true&bg=true&margin-w=2)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=monaH24&icon=0&color=0)](https://visitcount.itsvg.in)
